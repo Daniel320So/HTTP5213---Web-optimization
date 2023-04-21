@@ -1,7 +1,7 @@
 /*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: default-src 'self' style-src 'self' 'unsafe-inline'
+  Content-Security-Policy: default-src 'self' style-src 'self' 'unsafe-inline' img-src 'self' data:image/svg+xml
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
   Permissions-Policy: geolocation=(self "https://web-optimization-daniel.netlify.app/"), microphone=()
